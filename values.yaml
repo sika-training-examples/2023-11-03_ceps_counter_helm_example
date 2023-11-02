@@ -1,0 +1,7 @@
+# Required
+host:
+
+# Optional
+counterReplicas: 2
+counterImage: ttl.sh/counter:24h
+redisImage: ttl.sh/redis:24h
